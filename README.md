@@ -1,2 +1,2 @@
-# CLASIFICADOR MENSAJES EXTORSIVOS
-Proyecto de entrenamiento de una red neuronal una red neuronal para reconocer mensajes de Extorsión y no Extorsión
+# Data Scientist
+En este repositorio se almacenan mi experiencia en proyectos en el campo de la Ciencia de Datos 
